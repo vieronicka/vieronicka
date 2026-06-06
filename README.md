@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vieronica
+# 👋 Hi, I'm Vieronicka
 
 **Software Developer | AI/ML Enthusiast | Problem Solver | Continuous learner**
 
