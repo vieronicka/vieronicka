@@ -37,15 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vieronicka&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vieronicka&layout=compact&theme=radical)
-
-
----
-
 ## 📈 Currently Working On
 - 🔬 AI & AI Agents Projects
 - 🌐 Full Stack Web Applications
@@ -53,7 +44,6 @@
 
 ---
 
-## 🤝 Let's Connect!
 
 ## 🤝 Let's Connect!
 
