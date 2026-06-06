@@ -1,16 +1,38 @@
-## Hi there 👋
+# Welcome! 👋
 
-<!--
-**vieronicka/vieronicka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm **Vieronicka** - a passionate developer and tech enthusiast.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages**: C#, JavaScript, Python, Java
+- **Backend**: Node.js, C# (.NET)
+- **Frontend**: JavaScript, React
+- **Databases**: SQL, MongoDB
+- **Tools**: Git, GitHub, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Current Focus
+- Building AI/ML applications with **XiansAi** project suite
+- Full-stack web development
+- Backend systems & APIs
+- Competitive programming
+
+## 📊 Notable Projects
+- **XiansAi Suite** - AI-powered server with UI & documentation
+- **gyn_backend** - JavaScript backend system
+- **PR review agent** - Agent to review my own PRs
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vieronicka&show_icons=true&theme=radical)
+
+## 🔗 Links
+- 📧 Email: [vieronicka27@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/vieronicka-k-9b758725b]
+- 🌐 Portfolio: [Coming Soon]
+
+## 🎓 Skills & Interests
+- Full-Stack Development
+- AI/ML Applications
+- System Design
+- Problem Solving
+
+---
+*Last updated: [Current Dat]*
